@@ -1,2 +1,3 @@
 # curiosity
-my first git
+today is teusday
+
